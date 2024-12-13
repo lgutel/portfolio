@@ -22,7 +22,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a href="index.html">Portfolio </a>
+          <a href="index.php">Portfolio </a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
